@@ -1,0 +1,19 @@
+{
+  "name": "lets-connect-server-side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemant2201/letsConnect.git"
+  },
+  "author": "Hemant Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemant2201/letsConnect/issues"
+  },
+  "homepage": "https://github.com/hemant2201/letsConnect#readme"
+}
